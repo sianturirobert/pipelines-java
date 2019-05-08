@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/robertluhut/selfie-img/_apis/build/status/sianturirobert.pipelines-java?branchName=master)](https://dev.azure.com/robertluhut/selfie-img/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
